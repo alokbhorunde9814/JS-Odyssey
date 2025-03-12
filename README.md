@@ -1,4 +1,4 @@
-# **JS-Odyssey 🚀**  
+# **JS-Odyssey 🎢**  
 
 Welcome to **JS-Odyssey**, my fun (and sometimes frustrating) journey through JavaScript. This repo is where I learn JS, make mistakes, and somehow survive **asynchronous programming**. Let’s see how far I get!  
 
